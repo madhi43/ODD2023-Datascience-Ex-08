@@ -1,4 +1,4 @@
-# Ex-08-Data-Visualization-
+# Ex-08-Data-Visualization
 # AIM
 To Perform Data Visualization on a complex dataset and save the data to a file.
 
